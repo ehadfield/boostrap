@@ -5,4 +5,20 @@
 .jumbotron h1 {
   color: white;
   text-shadow: 1px 1px 2px black;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  border-bottom: .5px solid grey;
+}
+
+.row img {
+  display: block;
+  margin: 0 auto;
+}
+
+.row p {
+  margin: 5px 10px;
+  padding: 10px;
 }
